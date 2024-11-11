@@ -13,7 +13,9 @@
 Для оформления списка источников использовать \bibliography команду  
 Пример выполнения данной лабораторной:
 
-![labs1 text](https://github.com/dekada314/RPIIS/blob/patch-1/labs/screens/lab1_text)
+<img src="https://ltdfoto.ru/images/2024/11/12/SNIMOK.png" alt="SNIMOK.png" border="0" />
+
+[Ссылка](https://smallpdf.com/ru/result#r=b9af0bee9cfd5624b5d7334b21c0f9df&t=share-document) на .pdf файл лабоаторной №1.
 
 # Лабораторная работа 3
 
