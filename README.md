@@ -1,5 +1,5 @@
 # Лабораторная работа 1
-<img src="https://ltdfoto.ru/images/2024/11/12/LaTeX_logo.svg.png" alt="LaTeX_logo.svg.png" border="0" width="200"/>
+<img src="https://ltdfoto.ru/images/2024/11/26/B99C2999-7A3C-4EF6-80F4-57C7664DC684.png" alt="B99C2999-7A3C-4EF6-80F4-57C7664DC684.png" border="0" />
 
 ## Цель:
 
@@ -18,7 +18,7 @@
 
 
 # Лабораторная работа 3
-<img src="https://ltdfoto.ru/images/2024/11/12/tt.png" alt="tt.png" border="0" width="200"/>
+<img src="https://ltdfoto.ru/images/2024/11/26/6AC9DD59-D09A-430F-B779-B614040AF8D8.png" alt="6AC9DD59-D09A-430F-B779-B614040AF8D8.png" border="0" />
 
 ## Цель:
 
@@ -35,10 +35,10 @@
 * `git log` — выводит историю коммитов
 
 ### Пример выполнения команд:
-
-<img src="https://ltdfoto.ru/images/2024/11/12/u.png" alt="u.png" border="0" />
-<img src="https://ltdfoto.ru/images/2024/11/12/rtn.png" alt="rtn.png" border="0" />
-<img src="https://ltdfoto.ru/images/2024/11/12/ghk.png" alt="ghk.png" border="0" />
+<img src="https://ltdfoto.ru/images/2024/11/26/6C548ECB-2AE0-460E-B474-769C0770AF28.png" alt="6C548ECB-2AE0-460E-B474-769C0770AF28.png" border="0" />
+<img src="https://ltdfoto.ru/images/2024/11/26/32883C07-A48F-4673-853A-90D47CD171B8.png" alt="32883C07-A48F-4673-853A-90D47CD171B8.png" border="0" />
+<img src="https://ltdfoto.ru/images/2024/11/26/0D25CA5D-FDDA-48BB-962D-4FE0DD9DF696.png" alt="0D25CA5D-FDDA-48BB-962D-4FE0DD9DF696.png" border="0" />
+<img src="https://ltdfoto.ru/images/2024/11/26/DAD772FD-1E19-4FA0-B6AD-3426A6B2FC48.png" alt="DAD772FD-1E19-4FA0-B6AD-3426A6B2FC48.png" border="0" />
 
 ### Вывод: 
 
